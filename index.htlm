@@ -1,0 +1,87 @@
+<!DOCTYPE html>  
+  <html>  
+  <head>    
+   <title>Francesco Lippo Blog</title>  
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+      <style>  
+  
+      body {  
+        font-family: Arial, sans-serif;  
+        margin: 0;  
+        padding: 0;  
+      }  
+  
+      header {  
+        background-color: Yellow;  
+        padding: 20px;  
+        text-align: center;  
+      }  
+  
+      #logo {  
+        width: 200px;  
+      }  
+  
+       main {  
+          text-align: center;  
+          padding: 20px;  
+       }  
+  
+      #image {  
+        margin-top: 20px;  
+      }  
+  
+      #button {  
+        margin-top: 30px;  
+      }  
+  
+      h1, h2, h3, h4, h5, h6, h7, h8, h9 {  
+        font-size: 2em;  
+      }  
+  
+      p {  
+        font-size: 1.5em;  
+      }  
+  
+      /* Aggiungi media query per il cellulare */  
+      @media only screen and (max-width: 480px) {  
+        #logo {  
+          width: 100px; /* Riduci la larghezza del logo */  
+        }  
+  
+        img {  
+          max-width: 100%; /* Fai sì che tutte le immagini si adattino alla larghezza dello schermo */  
+          height: auto; /* Mantieni l'aspetto proporzionale delle immagini */  
+        }  
+      }  
+      </style>  
+  
+  
+     </script>  
+  </head>  
+  <body>  
+  <header>  
+    <img id="logo" src="https://github.com/Krustycoin0/lippo/blob/main/img/src/IMG_20230404_081528-min.png" alt="Logo">  
+    <p>Lippo Francesco Blog<p>  
+  </header>  
+  <main>  
+   <div>  
+  
+  
+  
+  
+  
+  <p>contact</p>  
+  <li>  
+     </a>  
+  </li>  
+  <li>  
+      <a title="Buy BOB 4.0" href="https://twitter.com/BobBscToken4?t=6RSO-bWO2ieP8qY3-R7cKA&s=09" target="_blank">  
+          <img src="https://raw.githubusercontent.com/Krustycoin0/tre/main/img/src/IMG_20230723_004253_1690065897984.jpeg" alt="Twitter" />  
+      </a>  
+  </li>  
+  </main>  
+  <footer>  
+      <p>@All rights reserved BOB4.0 2023</p>  
+  </footer>  
+  </body>  
+    </html>
